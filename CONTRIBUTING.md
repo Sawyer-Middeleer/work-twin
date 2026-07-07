@@ -20,9 +20,14 @@ sharper protocol, better skills, and new demo twins built from public evidence.
 
 ## Adding a twin
 
+**Your own twins never come here** — they live in your `.claude/agents/` +
+`.claude/work-twin/` (see [`references/setup.md`](references/setup.md)). This section
+is only for contributing a *public, sanitized demo twin* to the repo as a showcase.
+
 Use the `build-a-work-twin` skill and follow
 [`references/dossier-template.md`](references/dossier-template.md). Put the runnable
-dossier in `agents/` and its evidence notes + worked examples in `twins/<name>/`.
+dossier in `agents/` and its evidence notes + worked examples in `twins/<name>/`,
+built strictly from public material (the ground rules above).
 
 ## Changing the protocol
 

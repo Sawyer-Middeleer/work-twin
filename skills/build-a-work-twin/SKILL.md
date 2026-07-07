@@ -30,8 +30,26 @@ produce operates *on* them and must never contradict them:
 - **`../../references/guardrails.md`** — Standards / Rules / the Forbidden Six.
 - **`../../references/dossier-template.md`** — the dossier skeleton to draft on.
 - **`../../references/mask-vs-mirror.md`** — why the whole method exists.
+- **`../../references/setup.md`** — where twins and the workspace live.
 
 Two operations. Infer which from the request.
+
+---
+
+## First run — scaffold the setup
+
+On the first build in an environment (no `.claude/work-twin/` yet), stand up the
+home per `../../references/setup.md` before drafting:
+
+1. **Pick the scope** — ask or infer: user-level `~/.claude/agents/` (twin available
+   in every project) or project-level `<repo>/.claude/agents/` (scoped to this
+   repo/team). Default to user-level for a person carried across projects.
+2. **Scaffold the workspace** — at the matching scope, create `.claude/work-twin/`
+   with a `roster.md` and an empty `bindings.md`, unless they already exist.
+3. After drafting, place the dossier in the matching `.claude/agents/` and append it
+   to `roster.md` (name — role — what the twin is for).
+
+On later builds, skip the scaffold: add the dossier and append to `roster.md`.
 
 ---
 

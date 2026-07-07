@@ -62,16 +62,37 @@ against reality — the only proof you built a mirror).
 3. **Build your own.** Point the `build-a-work-twin` skill at someone's work
    corpus (with their consent) and follow the method. No corpus, no twin.
 
+## Your setup
+
+The plugin is the **engine**; your twins are **data** that lives in your own
+environment, never in the plugin. Two parts, each a native Claude Code mechanism:
+
+- **Twins are agents.** Each twin is a self-contained dossier in `.claude/agents/`
+  (it carries its own calibration log). Being a registered agent is what lets the
+  skills dispatch it. **User-level** `~/.claude/agents/` makes a twin available in
+  every project; **project-level** `<repo>/.claude/agents/` scopes it to one team
+  or codebase.
+- **The workspace is optional.** Once you have several twins or a recurring panel,
+  a `.claude/work-twin/` directory holds a `roster.md` (your twins, one line each)
+  and `bindings.md` (named boards for `convene-a-board`). Calibration stays inside
+  each dossier; nothing else belongs in the workspace.
+
+A fresh install needs none of this — run `build-a-work-twin` and it scaffolds the
+structure for you on the first build. Full convention: [`references/setup.md`](references/setup.md).
+
 ## What's in here
 
 ```
 references/     the protocol — the constitution every twin is built against
   twin-contract · five-dimensions · guardrails · work-evidence
-  differential-test · dossier-template · mask-vs-mirror
+  differential-test · dossier-template · mask-vs-mirror · setup
 skills/         the seven skills (build · calibrate · 5 use cases)
-agents/         runnable twins — starts with the Sawyer demo
-twins/sawyer/   the demo's evidence notes + one worked example per use case
+agents/sawyer.md   the shipped demo twin (a showcase, not your setup)
+twins/sawyer/      the demo's evidence notes + one worked example per use case
 ```
+
+Your own twins live in *your* `.claude/agents/` + `.claude/work-twin/`, never in
+this repo — see [Your setup](#your-setup).
 
 ## What a twin is *not*
 

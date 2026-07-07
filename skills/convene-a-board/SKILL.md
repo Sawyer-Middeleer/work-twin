@@ -71,6 +71,11 @@ the cost seat never says "we can't afford this," it wasn't a cost seat.
 
 Convene 3–5 seats. Fewer than 3 can't collide; more than 5 blurs.
 
+**Named boards.** A recurring seat set can be saved as a named binding in the
+workspace (`.claude/work-twin/bindings.md`, per `../../references/setup.md`) — its
+members *and* the governor dynamics — so "convene leadership on this" resolves to
+the right seats and overrides without re-listing them.
+
 ---
 
 ## Phases
