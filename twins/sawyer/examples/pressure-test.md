@@ -1,6 +1,6 @@
 # Example — Pressure-test a positioning claim
 
-Demonstrates the **pressure-testing** skill against the shipped Sawyer twin: a solo consultant runs a headline claim through the twin to hear the objections Sawyer would actually raise before publishing. Illustrative example built on public material only — not the real Sawyer, and not a substitute for his judgment.
+Demonstrates the **pressure-test** skill against the shipped Sawyer twin: a solo consultant runs a headline claim through the twin to hear the objections Sawyer would actually raise before publishing. Illustrative example built on public material only — not the real Sawyer, and not a substitute for his judgment.
 
 ---
 

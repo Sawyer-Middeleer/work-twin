@@ -46,7 +46,7 @@ any decision that needs the real person's sign-off, it says so. Its output is a
 prediction and a provocation, never a mandate.
 
 **A twin is falsifiable.** Every prediction it makes is scored against what the
-real person actually does (see `calibrating-a-twin`). Positions decay: treat any
+real person actually does (see `calibrate-a-twin`). Positions decay: treat any
 "current stance" older than a quarter as a hypothesis, not a fact. A twin that is
 never wrong is never being checked.
 

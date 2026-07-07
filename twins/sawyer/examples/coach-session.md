@@ -1,6 +1,6 @@
 # Example — Coaching session (stated vs. revealed)
 
-Demonstrates the **coaching** skill against the shipped Sawyer twin: the twin reads a solo operator's own patterns back to them and names where what they *say* they want diverges from what they *actually choose*. Reflective, non-sycophantic, self-corrective about its own bias. Illustrative example on public material only — a generic, hypothetical operator, no real names.
+Demonstrates the **coach** skill against the shipped Sawyer twin: the twin reads a solo operator's own patterns back to them and names where what they *say* they want diverges from what they *actually choose*. Reflective, non-sycophantic, self-corrective about its own bias. Illustrative example on public material only — a generic, hypothetical operator, no real names.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: building-a-work-twin
+name: build-a-work-twin
 description: >-
   Build a new work digital twin from a subject's work evidence, or audit an
   existing one. Use when the user wants to build a work twin, stand up a new
@@ -9,10 +9,10 @@ description: >-
   thinks", "twin from commits/PRs/docs", "audit a twin", "is this twin still
   faithful". Covers the full build lifecycle (scope → mine → provenance gate →
   dossier → Card → differential test) and the audit checklist. Calibration
-  against reality is a separate skill (calibrating-a-twin).
+  against reality is a separate skill (calibrate-a-twin).
 ---
 
-# Building a work twin
+# build-a-work-twin — build or audit a twin
 
 A **work digital twin** is a high-fidelity model of how a specific real
 professional thinks and decides — same models, same criteria, same blind spots —
@@ -178,4 +178,4 @@ archetype — warrants its own re-spec.
 - **Twins simulate; they don't commit.** No outward or irreversible action; any
   decision needing the real person's sign-off says so, at the sanctioned footer.
 - The proof you built a **mirror and not a mask** is that its predictions survive
-  contact with reality — that lives in `calibrating-a-twin`.
+  contact with reality — that lives in `calibrate-a-twin`.

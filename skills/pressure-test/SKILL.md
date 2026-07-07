@@ -1,5 +1,5 @@
 ---
-name: pressure-testing
+name: pressure-test
 description: >-
   Single-twin red-team of an artifact before it reaches the real person. Run a
   plan, PR, design, pitch, message, or decision through ONE work twin to surface
@@ -11,7 +11,7 @@ description: >-
 argument-hint: "[artifact or path] [twin name]"
 ---
 
-# pressure-testing — single-twin red-team
+# pressure-test — single-twin red-team
 
 Run an artifact through one twin to hear the objections *this subject* would
 actually raise, before the real person does. The output is a prediction and a

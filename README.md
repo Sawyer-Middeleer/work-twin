@@ -39,14 +39,14 @@ built by **making the evidence sacred**. See [`references/mask-vs-mirror.md`](re
 
 | Use case | Skill | What it does |
 |---|---|---|
-| **Pressure-testing** | `pressure-testing` | Run an artifact through one twin to surface the objections that person would actually raise. Red-team before they see it. |
-| **Thought-partner** | `thought-partner` | Think a problem *through* in the subject's frame — reasoning, not a verdict — and crystallize it into a hand-off Seed. |
-| **Coach** | `coaching` | The twin reads your own patterns back to you, and names the gap where what you *say* you want diverges from what you actually *ship*. |
-| **Board-room** | `convening-a-board` | Several twins over one decision, where the *collision* between them reveals the decision's real shape. Emits a Decision Record. |
+| **Pressure-testing** | `pressure-test` | Run an artifact through one twin to surface the objections that person would actually raise. Red-team before they see it. |
+| **Thought-partner** | `think-with-a-twin` | Think a problem *through* in the subject's frame — reasoning, not a verdict — and crystallize it into a hand-off Seed. |
+| **Coach** | `coach` | The twin reads your own patterns back to you, and names the gap where what you *say* you want diverges from what you actually *ship*. |
+| **Board-room** | `convene-a-board` | Several twins over one decision, where the *collision* between them reveals the decision's real shape. Emits a Decision Record. |
 | **Role-play** | `role-play` | Rehearse a real interaction — a hard conversation, a pitch, a negotiation — against a twin that reacts as the real counterpart would. |
 
-Two more skills run the lifecycle: **`building-a-work-twin`** (build one from work
-evidence, and audit it) and **`calibrating-a-twin`** (score its predictions
+Two more skills run the lifecycle: **`build-a-work-twin`** (build one from work
+evidence, and audit it) and **`calibrate-a-twin`** (score its predictions
 against reality — the only proof you built a mirror).
 
 ## Quick start
@@ -59,7 +59,7 @@ against reality — the only proof you built a mirror).
 2. **Meet the demo.** This repo ships a twin of Sawyer Middeleer (built only from
    public writing — see [`twins/sawyer/`](twins/sawyer/)). Try:
    > *Pressure-test this positioning line as the Sawyer twin: "We install AI operating systems for ops teams."*
-3. **Build your own.** Point the `building-a-work-twin` skill at someone's work
+3. **Build your own.** Point the `build-a-work-twin` skill at someone's work
    corpus (with their consent) and follow the method. No corpus, no twin.
 
 ## What's in here

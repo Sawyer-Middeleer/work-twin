@@ -20,7 +20,7 @@ sharper protocol, better skills, and new demo twins built from public evidence.
 
 ## Adding a twin
 
-Use the `building-a-work-twin` skill and follow
+Use the `build-a-work-twin` skill and follow
 [`references/dossier-template.md`](references/dossier-template.md). Put the runnable
 dossier in `agents/` and its evidence notes + worked examples in `twins/<name>/`.
 
@@ -28,7 +28,7 @@ dossier in `agents/` and its evidence notes + worked examples in `twins/<name>/`
 
 The `references/` files are the constitution — every skill and dossier is built
 against them. A change there ripples: update the affected skills in the same PR,
-and re-run the audit checklist in `building-a-work-twin` on the demo twin.
+and re-run the audit checklist in `build-a-work-twin` on the demo twin.
 
 ## Conventions
 

@@ -1,5 +1,5 @@
 ---
-name: calibrating-a-twin
+name: calibrate-a-twin
 description: >-
   Score a work digital twin against reality and correct it when it misses — the
   falsifiability engine that proves a twin is a mirror, not a mask. Use when the
@@ -9,10 +9,10 @@ description: >-
   over time. Triggers on phrasings like "calibrate the twin", "score the twin",
   "the twin was wrong about X", "log a divergence", "pre-register this
   prediction", "backtest the twin", "amend the doctrine". Building and auditing a
-  twin is a separate skill (building-a-work-twin).
+  twin is a separate skill (build-a-work-twin).
 ---
 
-# Calibrating a work twin
+# calibrate-a-twin — score a twin against reality
 
 A twin is only proven a **mirror** — the real person's reasoning — and not a
 **mask** — the culture's flattened caricature of their role — if its predictions

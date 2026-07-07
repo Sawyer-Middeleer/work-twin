@@ -38,7 +38,7 @@ Every discipline in `work-twin` exists to force a mirror and detect a mask:
   twin's output could belong to any twin, it's a mask, and you rewrite it.
 - **The exterior/interior evidence split** — a mask confabulates interior motives; a
   mirror sources them or admits it can't.
-- **Calibration** (`calibrating-a-twin`) — the only proof that you built a mirror
+- **Calibration** (`calibrate-a-twin`) — the only proof that you built a mirror
   and not a convincing mask is that its predictions survive contact with reality.
 
 ## Pre-registration (a calibration discipline worth stealing)

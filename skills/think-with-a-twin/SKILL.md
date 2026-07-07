@@ -1,5 +1,5 @@
 ---
-name: thought-partner
+name: think-with-a-twin
 description: >-
   Think a problem through with a work digital twin — reason inside the
   subject's frame to produce real thinking, not to extract a verdict (that's
@@ -13,7 +13,7 @@ description: >-
 argument-hint: "[twin name(s)] + the problem you're thinking through"
 ---
 
-# Thought-partner — reason with a twin
+# think-with-a-twin — reason with a twin
 
 Pressure-testing points a twin at a finished artifact and asks for a verdict.
 Thought-partnering does the opposite: it uses the twin *while the thinking is

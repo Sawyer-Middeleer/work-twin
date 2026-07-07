@@ -1,5 +1,5 @@
 ---
-name: convening-a-board
+name: convene-a-board
 description: >-
   Convene several work twins over one decision, staged so the COLLISION between
   them — not their individual takes — reveals the decision's real shape. The
@@ -12,7 +12,7 @@ description: >-
 argument-hint: "[decision or path] [seats: twin names]"
 ---
 
-# convening-a-board — multi-twin collision room
+# convene-a-board — multi-twin collision room
 
 Several twins over one decision. The value is not each seat's take — it is where
 they **collide**. A board that reaches easy agreement has told you nothing; the

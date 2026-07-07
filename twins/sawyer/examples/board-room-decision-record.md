@@ -1,6 +1,6 @@
 # Board room — productize into a course, or stay bespoke?
 
-Demonstrates the `convening-a-board` mechanic end to end over a real, public-flavored
+Demonstrates the `convene-a-board` mechanic end to end over a real, public-flavored
 decision. The Sawyer twin holds one seat; the other three are clearly-labeled illustrative
 archetypes standing in for what would, in real use, be evidence-built twins. Shows the Board
 Packet gate, a diagnosis-only Truth Round, proposals with named tradeoffs, genuine

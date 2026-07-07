@@ -1,6 +1,6 @@
 # Thought-partner — structuring a 2-week AI-ops diagnostic
 
-Demonstrates the `thought-partner` loop: reasoning a live problem *through* the Sawyer
+Demonstrates the `think-with-a-twin` loop: reasoning a live problem *through* the Sawyer
 twin in his frame — not extracting a verdict — then crystallizing the corpus of thought
 into a 6-field Seed an executor could run. Shows the moves that are his (recategorize
 before you solve, work backward from the outcome, deployment over capability, cheap

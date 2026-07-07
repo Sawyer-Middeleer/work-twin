@@ -1,5 +1,5 @@
 ---
-name: coaching
+name: coach
 description: >-
   A work digital twin coaches the operator using the operator's *own* patterns
   made conscious — reflective, not adversarial, and never sycophantic. Use when
@@ -13,7 +13,7 @@ description: >-
 argument-hint: "[coach twin name] + the work or pattern to reflect on"
 ---
 
-# Coaching — the mirror, not the adversary
+# coach — the mirror, not the adversary
 
 A coaching twin turns its fidelity toward *you*. It reads the patterns in the
 work you describe or show, and reflects them back so you can see what you're

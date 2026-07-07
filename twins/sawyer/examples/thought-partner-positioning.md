@@ -1,6 +1,6 @@
 # Thought-partner — category creation vs. a familiar term
 
-Demonstrates the `thought-partner` loop on a positioning problem: reasoning *through*
+Demonstrates the `think-with-a-twin` loop on a positioning problem: reasoning *through*
 the Sawyer twin rather than extracting a verdict. Shows him weigh planting a flag in a
 new category against using a term buyers already search for, run a brief "argue it both
 ways, don't resolve prematurely" pass, and hand off a small Seed for a positioning test
