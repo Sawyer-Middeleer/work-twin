@@ -1,0 +1,26 @@
+{
+  "name": "work-twin",
+  "owner": {
+    "name": "Sawyer Middeleer",
+    "url": "https://github.com/Sawyer-Middeleer"
+  },
+  "metadata": {
+    "description": "work-twin — build and manage evidence-grounded digital twins of how real professionals think and work."
+  },
+  "plugins": [
+    {
+      "name": "work-twin",
+      "source": "./",
+      "description": "Build a work digital twin from someone's work correspondence and work product, then use it to pressure-test decisions, think problems through, coach, convene a board, or rehearse a conversation. Ships a worked demo twin.",
+      "category": "productivity",
+      "keywords": [
+        "digital-twin",
+        "persona",
+        "red-team",
+        "decision-support",
+        "coaching",
+        "role-play"
+      ]
+    }
+  ]
+}

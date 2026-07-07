@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (if an app/ container is added later)
+node_modules/
+.wrangler/
+.dev.vars
+*.log
+
+# Local secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+
+# Working scratch
+scratch/
+*.local.md
